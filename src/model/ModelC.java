@@ -5,5 +5,6 @@ package src.model{
 	String nom;
 	if(opc=0)
 	nom="Hola";
+isis
 }
 }
