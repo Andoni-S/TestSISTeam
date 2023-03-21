@@ -7,5 +7,6 @@ package src.model{
 	nom="Hola";
 isis
 pues hago otro cambio y me la pela completamente
+folagor
 }
 }
